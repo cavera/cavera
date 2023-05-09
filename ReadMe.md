@@ -12,17 +12,13 @@ I'm a UI and interaction designer with a background in front-end development. I 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=cavera&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cavera&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=cavera&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=cavera&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cavera&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=cavera&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/cavera_de)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 🔝 Top Contributed Repo
 

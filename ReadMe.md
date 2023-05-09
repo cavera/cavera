@@ -1,4 +1,6 @@
-# 💫 About Me:
+![](https://res.cloudinary.com/dwrxp5sqk/image/upload/v1683662525/in_cover.png)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leonardo Fonseca
+========================================================================================================================================
 
 I'm a UI and interaction designer with a background in front-end development. I have more than ten years of experience designing user interfaces and interactions for e-learning courses for private and public companies in different countries of Latin America. I use tools like Figma, Adobe Illustrator, HTML, CSS, and JavaScript with GSAP to animate the DOM content.
 

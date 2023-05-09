@@ -12,9 +12,10 @@ I'm a UI and interaction designer with a background in front-end development. I 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=cavera&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=cavera&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cavera&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cavera&&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=donut&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api?username=cavera&&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=cavera&&theme=transparent&hide_border=true)
 
 ## 🏆 GitHub Trophies
 
